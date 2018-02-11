@@ -1,0 +1,2 @@
+model_checkpoint_path: "I:\\PycharmProjects\\tensorflow\\tf5_saver/my_net/save_net.ckpt"
+all_model_checkpoint_paths: "I:\\PycharmProjects\\tensorflow\\tf5_saver/my_net/save_net.ckpt"
