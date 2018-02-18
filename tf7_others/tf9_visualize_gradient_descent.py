@@ -13,7 +13,7 @@ LR = 0.1
 REAL_PARAMS = [1.2, 2.5]
 INIT_PARAMS = [[5, 4],
                [5, 1],
-               [2, 4.5]][2]
+               [2, 4.5]][0]
 
 x = np.linspace(-1, 1, 200, dtype=np.float32)   # x data
 
